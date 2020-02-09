@@ -1,0 +1,31 @@
+#logo {
+  display: block;
+  margin: auto;
+  padding: 50px;
+  }
+
+.search {
+  text-align: center;
+  border-radius: 100px;
+  
+}
+
+#search-bar {
+  border-radius: 100px;
+  height: 35px;
+  width: 500px;
+}
+#buttons {
+  text-align: center;
+  padding: 25px;
+  }
+
+#GS-button {
+  height: 35px;
+  width: 100px;
+}
+
+#lucky-button {
+  height: 35px;
+  border-radius: 
+}
